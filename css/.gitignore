@@ -1,0 +1,3 @@
+# Ignorar archivos del sistema o editores
+.DS_Store
+node_modules/
